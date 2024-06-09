@@ -1,0 +1,30 @@
+Date,Type,Amount,Description
+2023-01-01,Debit,100,Grocery Store
+2023-01-03,Credit,2000,Salary Deposit
+2023-01-05,Debit,50.25,Online Shopping
+2023-01-10,Debit,30,Restaurant
+2023-01-12,Credit,150,Refund
+2023-01-15,Debit,20.5,ATM Withdrawal
+2023-01-20,Credit,500,Transfer from Friend
+2023-01-25,Debit,80.75,Utility Bill Payment
+2023-02-01,Debit,40,Coffee Shop
+2023-02-05,Credit,1000,Investment Dividend
+2023-02-10,Debit,75.2,Online Subscription
+2023-02-15,Debit,25.5,Transportation
+2023-02-20,Credit,300,Reimbursement
+2023-02-25,Debit,60.3,Electronics Store
+2023-03-01,Credit,1800,Consulting Fee
+2023-03-05,Debit,90.5,Medical Expenses
+2023-03-10,Debit,35.75,Bookstore
+2023-03-15,Credit,250,Gift from Family
+2023-03-20,Debit,55,Gym Membership
+2023-03-25,Debit,70.25,Travel Expenses
+2023-04-01,Credit,1200,UPI Transfer /354621789012/UPI/sender@example.com
+2023-04-05,Debit,80,UPI Transfer /789012345678/UPI/receiver@example.com
+2023-04-10,Debit,45.5,UPI Transfer /123456789012/UPI/vendor@example.com
+2023-04-15,Debit,15.99,Netflix Subscription
+2023-04-20,Debit,15.99,Netflix Subscription
+2023-04-25,Debit,15.99,Netflix Subscription
+2023-05-01,Debit,25,Zomato Order /ZOM-1234/Meal
+2023-05-05,Debit,18.5,Zomato Order /ZOM-5678/Coffee
+2023-05-10,Debit,32.75,Zomato Order /ZOM-9101/Dinner
